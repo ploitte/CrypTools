@@ -1,15 +1,15 @@
 
 
-
+Model: https://www.lafabriquedunet.fr/conseils/preparer-projet-web/rediger-brief-creation-site-internet/
 
 Architecture du Cahier des Charges:
 
 
-    -Document PDF
+    Format: Document PDF
 
 ***********************************************************
 
-    -Première page:
+    -Première page(Préambule):
         - Logo
         - Titre "Cahier des charges"
         - Détails = {
@@ -21,16 +21,24 @@ Architecture du Cahier des Charges:
         }
 ***********************************************************
 
-    1.Description du projet
+    1.Presentation du projet
 
-        1.1 Objectifs du site
-        1.2 Internautes visés
-        1.3 Les concurrents
+        1.1 Objectif general du site(Paragraphe)
+        1.2 Internautes visés(Liste)
+        1.3 Les concurrents(Liste)
         
 
-    2. Spécifications fonctionnelles et techniques
-
-        - Contenu
+    2.Description du site
+        
+        2.1 Fonctionnalités Globales(Liste)
+        2.2 Arborescence global du site(Graphique)
+        2.3 Maquette du site(Wireframe  Adobe XD)
+        2.4 Technologies utilisées
+        2.5 Administration du site
+        2.6 Statistiques
+        2.7 Référencement
+        2.8 Nom de domaine
+        
 
 
 
