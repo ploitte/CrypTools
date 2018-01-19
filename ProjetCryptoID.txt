@@ -1,0 +1,49 @@
+ProjetCypto:
+
+	Id�e principale:
+
+ 		-Systeme d'alerte sur le prix d'une crypto
+
+ 		-Systeme de portfolio de mes cryptos favorites
+			-Via Api r�ccup�rer tous les tweets concernant cette monnaie. (Voir pour d'autre plateforme sociale, ex: reddit..etc)
+
+ 		-Syteme calcul de benefice pour les traders
+			- Calcul en fonction du prix d'achat, prix de vente, nombre de tokens, apr�s taxe des fees;
+			- Fees en fonction de la plateforme d'echange (Ex: Binance 0.050, Bittrex 0.25...
+
+
+	-Fonction du site:
+
+		-Connexion/Inscription
+			-with facebook
+			-with google
+
+			-systeme de captcha
+			-Réccupération de mot de passe par mail
+		
+
+		-Portfolio monnaie
+			-l'Utilisateur pourra ajouter ses monnaies favorites dans son portfolio,
+				en cliquant sur un élément de sa liste il sera redirigé vers un page listant tous les tweets concernant la monnaie.(3maxi, +si prenium)
+
+				-Voir pour faire un graphique
+
+
+		-Systeme d'alerte
+			-l'Utilisateur pourra créer des alertes sur les prix des monnaies,
+				il devra selectionner une monnaie via un input recherche pour ensuite parametrer l'alerte de prix qui sera ajoutée dans sa liste d'alerte (3max, +si prenium)
+
+		
+		-Calculateur de benefice avec Historique:
+			-l'Utilisateur pourra créer des portes-monnaie factices,
+		
+
+		-Profil
+
+
+		-Chat?
+
+		-FAQ
+
+		-Page admin: Statistiques, refresh Api... A voir
+ 				
